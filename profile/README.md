@@ -1,5 +1,5 @@
 ## Welcome to ProOmnes! 👋
-This is an open source organization which provides currently many plugins for Minecraft servers.
+This is an open source organization that currently provides many plugins for Minecraft servers.
 
 
 <!--
